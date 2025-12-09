@@ -9,17 +9,17 @@ The project combines Excel analysis for calculations and Power BI for interactiv
 The dataset contains HCP-level attributes:
 
 # Column Name	Description
-HCP Unique Identifier: Unique ID assigned to each HCP
-Specialty:	Medical specialty
-Date of First & Last Dispense:	Time span of prescribing
-Enrollments:	Number of patients enrolled
-NPS:	HCP satisfaction score
-Discontinuations:	Number of patients discontinued
-Area Name	Region: West, Midwest, NorthEast, etc.
-Active HCP:	Active / Inactive status
-Rx Duration (Days):	Calculated prescribing duration
-Rx Duration Buckets:	0–3M, 3–6M, 6–12M, 12+ Months
-Start Year:	Year the HCP started prescribing
+### HCP Unique Identifier: Unique ID assigned to each HCP
+### Specialty:	Medical specialty
+### Date of First & Last Dispense:	Time span of prescribing
+### Enrollments:	Number of patients enrolled
+### NPS:	HCP satisfaction score
+### Discontinuations:	Number of patients discontinued
+### Area Name	Region: West, Midwest, NorthEast, etc.
+### Active HCP:	Active / Inactive status
+### Rx Duration (Days):	Calculated prescribing duration
+### Rx Duration Buckets:	0–3M, 3–6M, 6–12M, 12+ Months
+### Start Year:	Year the HCP started prescribing
 
 # 🛠 Tools & Techniques Used
 Excel
@@ -63,28 +63,28 @@ Active HCP %
 
 # 🔍 Key Insights (Summary)
 
-AI & PDA specialties contribute the highest enrollments — major business drivers.
-HCPs in the 3–6 month Rx duration show the highest average enrollment, indicating peak productivity in early-mid prescribing tenure.
-2022 starters have higher NPS and higher active engagement, showing improved onboarding & engagement strategy.
-Enrollment levels are stable between 2021 and 2022, but 2022 has better retention and satisfaction.
-Regions like West and Midwest show higher counts of active HCPs.
+### AI & PDA specialties contribute the highest enrollments — major business drivers.
+### HCPs in the 3–6 month Rx duration show the highest average enrollment, indicating peak productivity in early-mid prescribing tenure.
+### 2022 starters have higher NPS and higher active engagement, showing improved onboarding & engagement strategy.
+### Enrollment levels are stable between 2021 and 2022, but 2022 has better retention and satisfaction.
+### Regions like West and Midwest show higher counts of active HCPs.
 
 # 🧠 Business Value
 
 This analysis helps the organization:
-Identify high-impact specialties for targeted engagement
-Strengthen early-stage support for new HCPs
-Improve customer satisfaction (NPS-driven insights)
-Allocate resources efficiently based on region & specialty
-Monitor HCP lifecycle & retention patterns
+### Identify high-impact specialties for targeted engagement
+### Strengthen early-stage support for new HCPs
+### Improve customer satisfaction (NPS-driven insights)
+### Allocate resources efficiently based on region & specialty
+### Monitor HCP lifecycle & retention patterns
 
 # 💡 How to Use This Project
 
-Download or clone the repository
-Open the Excel files for formula logic
-Open .pbix file in Power BI Desktop
-Explore interactive visuals & slicers
-Review key insights from the dashboard
+### Download or clone the repository
+### Open the Excel files for formula logic
+### Open .pbix file in Power BI Desktop
+### Explore interactive visuals & slicers
+### Review key insights from the dashboard
 
 # ✨ Conclusion
 
