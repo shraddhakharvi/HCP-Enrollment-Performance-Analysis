@@ -1,6 +1,6 @@
 # 🧩 Project Overview
 
-###This case study analyzes Healthcare Professionals (HCPs) based on their prescribing behavior, enrollments, satisfaction (NPS), and retention trends. The goal is to identify top-performing specialties, engagement patterns, and differences between HCPs who started prescribing in 2021 vs 2022.
+### This case study analyzes Healthcare Professionals (HCPs) based on their prescribing behavior, enrollments, satisfaction (NPS), and retention trends. The goal is to identify top-performing specialties, engagement patterns, and differences between HCPs who started prescribing in 2021 vs 2022.
 
 The project combines Excel analysis for calculations and Power BI for interactive reporting — enabling clear business decisions and insights.
 
